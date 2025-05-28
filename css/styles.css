@@ -35,18 +35,18 @@
 
 .new-add {
     /* background-color: tomato; */
-    border: 1px solid tomato;
+    border: 1px solid tomato; 
+    border-radius: 10px;
     max-width: 320px;
     font-size: 16px;
     margin: auto;
     padding: 10px;
-    border-radius: 10px;
-    margin-top: 8px;
+    margin-top: 8px; 
     display: flex;
     justify-content: space-between;
 }
 
-#create-btn {
+.new-add button {
     padding: 5px 10px;
     border-radius: 10px;
     border: none;
